@@ -7,10 +7,11 @@ Rustic OS is our attempt at developing a modular kernel written completely in Ru
 
 ## Contents
 
-* [Dependencies](#dependencies)
-* [Development](#development)
-* [Contributing](#contributing)
-* [Contact](#contact)
+- [Rustic OS](#rustic-os)
+  - [Contents](#contents)
+  - [Dependencies](#dependencies)
+  - [Development](#development)
+  - [Contributing](#contributing)
 
 ## Dependencies
 
@@ -45,7 +46,7 @@ Open your favourite terminal and perform the following tasks:-
     Do check out the code at https://github.com/sdslabs/rusticos
     ```
 
-1. Run `make install` to install the necessary toolchain dependencies and change Rust version to nightly-2020-12-07.
+1. Run `make install` to install the necessary toolchain dependencies and change Rust version to nightly-2021-12-07.
 
     > This is necessary to enable some of the dependency crates
 
@@ -67,11 +68,4 @@ Open your favourite terminal and perform the following tasks:-
 
 ## Contributing
 
-If you'd like to contribute to this project, refer to the [contributing documentation](./CONTRIBUTING.md).
-
-## Contact
-
-If you have a query regarding the product or just want to say hello then feel free to visit
-[chat.sdslabs.co](http://chat.sdslabs.co/) or drop a mail at [contact@sdslabs.co.in](mailto:contact@sdslabs.co.in)
-
-Created with :heart: by [SDSLabs](https://github.com/sdslabs)
+If you'd like to contribute to this project, refer to the [contributing documentation](./CONTRIBUTING.md
